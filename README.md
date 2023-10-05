@@ -4,4 +4,6 @@ Activities:
 2. How to select ML algorithms guidelines?
 3. How to use inbuild datasets?
 4. Create an example ML example covering the questions above!
-5. Optimise the Model with parameters.
+5. Optimise the model with parameters.
+6. work on exercises form sklearn.
+
